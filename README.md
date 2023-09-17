@@ -5,6 +5,8 @@ The data is from Kaggle website and has more than 2 million rows and 151 columns
 
 In this proect I built a model to predict default of a loan based on the characteristics at the time of application. Therefore, any columns that was not established prior to the decision was dropped. 
 
+The complete report is here: https://github.com/somayehY/LoanDefaultPrediction/blob/main/LendingClubReport.docx
+
 ![image](https://user-images.githubusercontent.com/85642689/149711246-8b78f885-c713-4fa5-8cff-2569db374e27.png)
 
 
